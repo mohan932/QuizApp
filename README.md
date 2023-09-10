@@ -1,0 +1,1 @@
+# QuizApp This is the quiz app to append the given questions,And the questions has a four option in that options we have to choose any one option,After attending the all questions finally the score was displayed.And the application is make with html,css and javascript code.
